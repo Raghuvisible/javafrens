@@ -25,6 +25,7 @@ public class BrandMaster {
     @JsonProperty
     private int iBmId;
 
+    // Brand Master Name
     @JsonProperty
     private String vBrandName;
 
